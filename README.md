@@ -15,7 +15,7 @@ Without further-a-do, here are some initial projects that I'm interested in work
 ```
 
 # Plan
-* Unreal Engine with Python + AI
+* Unreal Engine with Python + AI [WE'VE Started! Check it out here!](https://github.com/UnrealAI/CarAI)
   * Using Genetic Algorithms and Neural Networks to have a car teach itself to drive.
   * Generate new organisms and have them teach themselves how to walk through GA + NN, Spore?
   * https://github.com/20tab/UnrealEnginePython
